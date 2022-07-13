@@ -14,7 +14,7 @@
 
 ### 技术支持:
 
-	承接各项PHP定制型业务
+	10多年互联网从业经验，专业从事服务器运维、安全维护、PYTHON定制开发、JAVA定制开发、物联网整合定制开发、PHP定制开发、App开发、微信开发、小程序开发 
 
 欢迎点击QQ号交流[![842062626](http://www.xmspace.net/qq.gif "QQ联系")](https://wpa.qq.com/msgrd?v=3&uin=842062626&site=qq&menu=yes) 
 
